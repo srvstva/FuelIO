@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fuel IO</string>
+    <string name="text_action_sign_out">Sign out</string>
+    <string name="rs">\u20B9</string>
+    <string name="currency_placeholder">\u20B9 %1$s</string>
+    <string name="error_signing_in">Sign in error</string>
+    <string name="error_no_internet">No internet</string>
+    <string name="error_signed_in_cancel">Signed in cancelled</string>
+    <string name="msg_welcome">Signed in as %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_garage_empty">Nothing In Garage. Consider adding a new one</string>
+    <string name="title_add_vehicle">Adding new vehicle to garage</string>
+
+    <string name="menu_refuel_history">Refuel History</string>
+    <string name="menu_my_garage">My Garage</string>
+    <string name="menu_home">Home</string>
+    <string name="menu__action_sign_out">Sign Out</string>
+    <string name="menu_action_edit">Edit</string>
+    <string name="menu_action_delete">Delete</string>
+    <string-array name="array_vehicle_version">
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+    </string-array>
+</resources>
